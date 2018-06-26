@@ -53,7 +53,8 @@ button{display: inline-block; width: 100%;}
     height: auto;
 }
 .subsection-header{
-    text-shadow: -2px -2px black, 2px 2px black, -2px 2px black, 2px -2px black
+    text-shadow: -2px -2px black, 2px 2px black, -2px 2px black, 2px -2px black;
+    color: rgb(184, 236, 255);
 }
 .parallax {
     /* The image used */
@@ -65,7 +66,6 @@ button{display: inline-block; width: 100%;}
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-    color: rgb(73, 187, 237);
 }
 .clearfix::after {
     content: "";
