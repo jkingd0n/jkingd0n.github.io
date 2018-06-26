@@ -52,6 +52,9 @@ button{display: inline-block; width: 100%;}
     max-width: 100%;
     height: auto;
 }
+.subsection-header{
+    style=text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+}
 .parallax {
     /* The image used */
     background-image: url("/images/crowder-summit.jpg");
