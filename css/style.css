@@ -240,7 +240,7 @@ body {
 }
 
 .background {
-    background-color: coral;
+    background-color: rgb(75, 96, 116);
 }
 @keyframes banner-intro {
     from { top: 50%; }
