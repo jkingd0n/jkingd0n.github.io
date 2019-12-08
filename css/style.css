@@ -240,9 +240,7 @@ body {
 }
 
 .background {
-    background:url(../images/background.png);
-    background-repeat: no-repeat;
-    background-size: 100%;
+    background-color: color;
 }
 @keyframes banner-intro {
     from { top: 50%; }
