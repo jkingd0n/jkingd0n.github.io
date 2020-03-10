@@ -294,15 +294,15 @@ body {
         padding-top: 0em;
     }
     .icons {
-        margin-top: -2em;
+        margin-top: -2.25em;
     }
     .flex-item {
         padding-left: 100px;
         padding-right: 100px;
     }
     .icons img {
-        width: 2em;
-        padding-right: 1.5em;
+        width: 1.5em;
+        padding-right: 1em;
     }
     .info-text {
         font-size: 1.5em;

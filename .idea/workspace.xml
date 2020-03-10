@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7ef48e0-3fbe-4624-bf42-2adb71482e73" name="Default" comment="background change">
+    <list default="true" id="d7ef48e0-3fbe-4624-bf42-2adb71482e73" name="Default" comment="additional icons with descriptions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <workItem from="1518330414414" duration="5146000" />
       <workItem from="1519012660064" duration="16000" />
       <workItem from="1531106298578" duration="4917000" />
-      <workItem from="1583852420785" duration="6958000" />
+      <workItem from="1583852420785" duration="7899000" />
     </task>
     <task id="LOCAL-00001" summary="fixed banner formatting in Firefox">
       <created>1518334780760</created>
@@ -64,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518334780760</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="additional icons with descriptions">
+      <created>1583866689008</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583866689008</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,13 +88,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed banner formatting in Firefox" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed banner formatting in Firefox" />
+    <MESSAGE value="additional icons with descriptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="additional icons with descriptions" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="409" y="7" key="CommitChangelistDialog2" timestamp="1583866659542">
+    <state x="409" y="7" key="CommitChangelistDialog2" timestamp="1583866686669">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="409" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583866659542" />
+    <state x="409" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583866686669" />
     <state width="1515" height="261" key="GridCell.Tab.0.bottom" timestamp="1583866659736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -165,6 +172,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583852501588" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1583866692035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583866692035" />
     <state x="194" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583852725648">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
