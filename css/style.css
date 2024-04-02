@@ -239,7 +239,7 @@ body {
 }
 
 .background {
-    background-color: rgb(0, 189, 188);
+    background-color: rgb(0, 0, 0);
 }
 @keyframes banner-intro {
     from { top: 50%; }
